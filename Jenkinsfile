@@ -1,4 +1,4 @@
-line {
+pipeline {
     agent any
     parameters {
         // string(name: 'VERSION', defaultValue: '', description: 'Version number on prod')
