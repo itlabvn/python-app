@@ -27,7 +27,7 @@ line {
 
         stage('Deploy') {
             steps {
-                // Add your deployment steps here
+                // Add your deployment steps here ok
                 echo "Deploying the project"
                 echo "Deploying version ${params.VERSION}"
             }
